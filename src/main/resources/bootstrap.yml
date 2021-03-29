@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: application
+  config-client:
+    enabled: true
+aws:
+  client:
+    system-manager:
+      parameterstore:
+        enabled: true
+

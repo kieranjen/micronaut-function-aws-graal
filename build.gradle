@@ -26,6 +26,7 @@ dependencies {
     implementation("io.micronaut:micronaut-runtime")
     implementation("io.micronaut.aws:micronaut-function-aws")
     implementation("io.micronaut.aws:micronaut-function-aws-custom-runtime")
+    implementation("io.micronaut.aws:micronaut-aws-parameter-store")
 
     runtimeOnly("ch.qos.logback:logback-classic")
 

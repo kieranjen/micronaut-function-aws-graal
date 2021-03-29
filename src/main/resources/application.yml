@@ -1,3 +1,6 @@
 micronaut:
   application:
     name: function
+
+general:
+  region: ""
